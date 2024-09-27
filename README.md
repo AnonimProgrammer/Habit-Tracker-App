@@ -3,7 +3,7 @@
 ## Simple UI/UX habit tracker application.
 
 ## Features:
-'''
+''' dart
 # Isar database is used for main memory storage(CRUD operations and initialization parts).
 
 # Dark and Light Theme modes.
