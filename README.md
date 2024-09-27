@@ -1,6 +1,6 @@
 # Habit Tracker App
 
-Simple UI/UX habit tracker application.
+## Simple UI/UX habit tracker application.
 
 ## Features:
 # Isar database is used for main memory storage(CRUD operations and initialization parts).
