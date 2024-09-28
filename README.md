@@ -7,7 +7,7 @@ Simple UI/UX Habit Tracker Application.
 ```python
 # Isar database (CRUD operations and initialization).
 
-# Dark and Light Theme modes.
+# Dark and Light Mode Themes.
 
 # Months and days schedule.
 
