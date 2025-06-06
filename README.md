@@ -1,4 +1,4 @@
-# Secrets I have held in my HEART
+# Habit Tracker App
 
 ## Description 
 Simple UI/UX Habit Tracker Application.
